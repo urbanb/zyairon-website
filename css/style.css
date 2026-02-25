@@ -60,10 +60,9 @@ body {
 }
 
 .logo-img {
-    height: 36px;
+    height: 40px;
     width: auto;
     object-fit: contain;
-    filter: brightness(0) invert(1);
 }
 
 .nav-menu {
