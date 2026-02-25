@@ -26,12 +26,12 @@ body {
     color: var(--text-primary);
     line-height: 1.6;
     overflow-x: hidden;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
 }
 
 h1, h2, h3, h4, p, a, span, li {
     font-family: 'Orbitron', sans-serif;
-    letter-spacing: 0.5px;
+    letter-spacing: 1px;
 }
 
 .container {
